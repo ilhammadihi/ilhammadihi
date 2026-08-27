@@ -1,12 +1,11 @@
-# Hi, I'm Ilham Madihi 👋
+# Hi, I'm Ilham Madihi 
 
 🎓 **Data Engineer in training, building AI systems that reason over real data — from pipelines to LLM-powered agents.**
-📍 Morocco
 💡 Passionate about the full data lifecycle: ingestion, transformation, modeling, and turning it into decisions.
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - Design **end-to-end data pipelines** — collection, transformation, storage in dimensional models
 - Build **REST/real-time APIs** (FastAPI) that serve analytics and dashboards
@@ -17,12 +16,11 @@
 
 ---
 
-## 🔭 Current Focus
+##  Current Focus
 
 - Multi-agent AI systems on top of production data (monitoring, campaign assistance, data quality)
-- Retrieval-augmented generation (RAG) and knowledge base design
 - Explainable AI (XAI) for trust-sensitive predictions (LIME, feature importance)
-- Data pipeline reliability — resumable jobs, per-source scheduling, alerting
+- Data pipeline reliability
 
 ---
 
@@ -31,7 +29,7 @@
 ### Programming & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
