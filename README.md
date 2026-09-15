@@ -1,75 +1,150 @@
-# Hi, I'm Ilham Madihi 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ilham%20Madihi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 
-🎓 **Data Engineer in training, building AI systems that reason over real data — from pipelines to LLM-powered agents.**
-💡 Passionate about the full data lifecycle: ingestion, transformation, modeling, and turning it into decisions.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Data+Engineering+Student;%F0%9F%A4%96+AI+%26+Multi-Agent+Systems;%F0%9F%93%8A+Data+Pipelines+%26+ML;%F0%9F%8E%93+INPT+%E2%80%94+Rabat%2C+Morocco" alt="Typing SVG" />
+</div>
 
----
+<br>
 
-##  What I Do
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-- Design **end-to-end data pipelines** — collection, transformation, storage in dimensional models
-- Build **REST/real-time APIs** (FastAPI) that serve analytics and dashboards
-- Apply **machine learning** — classification, feature engineering, explainable AI (XAI)
-- Build **LLM-powered AI agents** — autonomous monitoring, decision support, conversational assistants
-- Design **PostgreSQL** schemas and write migrations that document *why*, not just *what*
-- Work with **Docker** to ship reproducible, deployable systems
+## 🚀 About Me
 
----
+I'm a **final-year Data Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **data pipelines, multi-agent AI systems, and end-to-end machine learning solutions**.
 
-##  Current Focus
+Across three internships, I've designed multi-source data pipelines, built and deployed classification models, and integrated AI inference into production applications — always with a focus on the data engineering underneath the AI.
 
-- Multi-agent AI systems on top of production data (monitoring, campaign assistance, data quality)
-- Explainable AI (XAI) for trust-sensitive predictions (LIME, feature importance)
-- Data pipeline reliability
-
----
+### 🎯 What I Focus On
+- 📥 **Data Pipelines**: multi-source collection, dimensional modeling, real-time APIs
+- 🤖 **Multi-Agent AI**: orchestrating deterministic, statistical, and learning-based agents
+- 🧠 **Applied ML**: CNNs, sentiment analysis, explainability (SHAP/LIME)
+- 🔌 **Integration**: shipping models into real applications (Django, FastAPI)
 
 ## 🛠️ Tech Stack
 
-### Programming & Querying
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,scala" />
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚙️ Backend & Data
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,docker" />
 
-### Generative & Agentic AI
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge&logoColor=white)
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<br>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jupyter" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ilhammadihi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilhammadihi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammadihi&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhammadihi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhammadihi&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffc86b&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📊 Telecom Sentiment Analysis Platform
+**Tech Stack:** `Python` `FastAPI` `PostgreSQL` `LLM`  
+**Key Features:** Multi-source data collection • Multilingual sentiment engine (FR/EN/AR) • Autonomous agents  
+**Impact:** New analytics dashboard integrated into the existing FaceMonitoring platform
 
 ---
 
-## 📌 Featured Projects
-
-- **[analyse_de_sentiment](https://github.com/ilhammadihi/analyse_de_sentiment)** — Sentiment analysis platform for African telecom operators: multi-source collection, LLM-powered semantic layer, 3 AI agents (monitoring, campaigns, data quality), real-time FastAPI, Telegram alerting.
-- **[CardioCheck-XAI](https://github.com/ilhammadihi/CardioCheck-XAI)** — Explainable AI for cardiac risk prediction (Random Forest + LIME), with a clinician-facing Streamlit interface.
-- **[Brainwave_Matrix_Intern](https://github.com/ilhammadihi/Brainwave_Matrix_Intern)** — Fake news detection model (AI/ML internship project).
-- **[Brainwave_Matrix_Intern_task2](https://github.com/ilhammadihi/Brainwave_Matrix_Intern_task2)** — Credit card fraud detection model.
+### 🫀 CardioCheck — Explainable AI for Cardiac Diagnosis
+**Tech Stack:** `Python` `Streamlit` `SHAP`  
+**Key Features:** ML-based diagnosis support • Local & global explainability  
+**Impact:** Makes model predictions auditable for clinical use
 
 ---
 
-## 🎯 Opportunities
-
-I'm looking for **internship opportunities** and **collaborative projects** to deepen my data engineering foundations, apply machine learning to real-world problems, and build production-ready GenAI/agentic systems.
+### ❤️ Heart Disease Prediction — End-to-End ML
+**Tech Stack:** `Python` `Scikit-learn` `Streamlit`  
+**Key Features:** Full ML lifecycle: EDA, preprocessing, training, deployment  
+**Impact:** Compared Logistic Regression, Random Forest, and SVM on clinical data
 
 ---
 
-## 📫 Let's Connect
+### 📰🔒 AI/ML Internship Projects — Brainwave Matrix
+**Tech Stack:** `Python` `Scikit-learn`  
+**Key Features:** Fake news detection (TF-IDF + Logistic Regression) • Credit card fraud detection (Random Forest + SMOTE)  
+**Impact:** 91% accuracy on fake news classification
+
+</div>
+
+## 📈 Experience Journey
+
+<div align="center">
+
+| 🎓 **Role** | 📅 **Duration** | 🏢 **Organization** |
+|:---:|:---:|:---:|
+| 🎓 Data Engineering Student | 2024 - Present | **INPT** |
+| 🤖 AI Engineer Intern | Jul 2026 - Aug 2026 | **DXC Technology** |
+| 📊 Data & AI Engineer Intern | Jun 2026 | **Digiwise** |
+| 🤖 AI Engineer Intern | Jul 2025 | **AI-Crafters** |
+
+</div>
+
+## 🎯 Currently Seeking
+
+<div align="center">
+
+🎓 **Final-Year Internship (PFE) in Data Engineering**  
+*Looking to contribute to real-world data pipelines and AI systems*
+
+**Passionate about:** Data Engineering • Multi-Agent AI • Machine Learning • Clean Data Architecture
+
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:madihiilham6@gmail.com)
+
+</div>
+
+## 🌐 Let's Connect!
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilham-madihi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madihiilham6@gmail.com)
 
+</div>
+
 ---
 
-✨ Always curious, continuously learning, and excited to collaborate on data-driven projects.
+<div align="center">
+
+### 💡 "Building data pipelines, multi-agent AI systems, and end-to-end machine learning solutions"
+
+*📊 Data Engineer in Training • 🤖 AI Enthusiast • 🚀 Problem Solver*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ilhammadihi&color=ff69b4&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
