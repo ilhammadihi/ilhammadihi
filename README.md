@@ -32,16 +32,15 @@ Across three internships, I've designed multi-source data pipelines, built and d
 <img src="https://skillicons.dev/icons?i=python,java,scala" />
 
 ### ⚙️ Backend & Data
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" />
+<img src="https://skillicons.dev/icons?i=postgres,docker" />
 
 ### 🤖 AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 <br>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
