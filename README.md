@@ -44,21 +44,6 @@ Across three internships, I've designed multi-source data pipelines, built and d
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilhammadihi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammadihi&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhammadihi&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhammadihi&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffc86b&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -121,6 +106,8 @@ Across three internships, I've designed multi-source data pipelines, built and d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilham-madihi-52779331b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madihiilham6@gmail.com)
+
+📧 madihiilham6@gmail.com
 
 </div>
 
